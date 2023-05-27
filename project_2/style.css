@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-left: 10px;
+    font-family: cursive;
+}
+
+.xxxx {
+    background-color: rgb(230, 204, 240);
+}
+
+.xxx {
+    display: flex;
+    justify-content: space-between;
+
+
+    align-items: center;
+    font-size: 25px;
+    background-colorbackground: rgb(63,94,251);
+    background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);;
+    color: rgb(230, 204, 240);
+    height: 8vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 20px;
+
+
+}
+
+.xx {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    gap: 20px;
+}
+
+.header 
+{
+    height: 92vh;
+    background-color: #6076FB;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg fill-opacity='0.87'%3E%3Cpolygon fill='%238e73e8' points='1600 160 0 460 0 350 1600 50'/%3E%3Cpolygon fill='%23b070d4' points='1600 260 0 560 0 450 1600 150'/%3E%3Cpolygon fill='%23cc6dbd' points='1600 360 0 660 0 550 1600 250'/%3E%3Cpolygon fill='%23e56aa4' points='1600 460 0 760 0 650 1600 350'/%3E%3Cpolygon fill='%23FC6785' points='1600 800 0 800 0 750 1600 450'/%3E%3C/g%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: cover;
+    /* background-image: url("./") ;
+    background-size: cover; */
+}
